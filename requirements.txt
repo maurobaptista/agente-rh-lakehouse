@@ -1,0 +1,17 @@
+pandas
+deltalake
+faker
+reportlab
+psycopg2-binary
+supabase
+azure-storage-blob
+python-dotenv
+pyarrow
+google-generativeai
+streamlit
+duckdb
+duckdb-engine
+SQLAlchemy<2.0
+langchain-community
+langchain-google-genai
+certifi 
